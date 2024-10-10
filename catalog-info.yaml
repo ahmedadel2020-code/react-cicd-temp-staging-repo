@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "react-cicd-temp-staging"
+  description: "react-cicd-temp-staging"
+  annotations:
+    github.com/project-slug: ahmedadel2020-code/react-cicd-temp-staging-repo
+    backstage.io/techdocs-ref: dir:.
+spec:
+  type: website
+  lifecycle: experimental
+  owner: "group:default/gcp"

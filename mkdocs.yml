@@ -1,0 +1,8 @@
+site_name: "react-cicd-temp-staging"
+site_description: "react-cicd-temp-staging"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
